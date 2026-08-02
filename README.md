@@ -1,6 +1,6 @@
 # 🤖 AI & Machine Learning — Lab Experiments & Assignments
 
-> **Undergraduate Coursework Repository** — A comprehensive collection of practical Artificial Intelligence and Machine Learning implementations, coursework assignments, and lab experiments built using Python and Jupyter Notebooks.
+> **Postgraduate Coursework Repository** — A comprehensive collection of practical Artificial Intelligence and Machine Learning implementations, coursework assignments, and lab experiments built using Python and Jupyter Notebooks.
 
 ---
 
